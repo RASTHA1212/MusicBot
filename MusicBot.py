@@ -26,7 +26,7 @@ current_chunk = 0
 # telebot.logger.setLevel(logging.DEBUG)
 
 # Configuration
-TOKEN = 'xxxxxxxxxx:xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx'  # Your token
+TOKEN = '6238392255:AAGbhyp1Qwi5Mj3nwCavj5S_JjzDYjTiWNk'  # Your token
 
 # Set proxy (if you need to use a proxy enter the address and port)
 # PROXY_HOST = 'https://0.0.0.0:8080'
